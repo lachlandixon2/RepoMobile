@@ -1,1 +1,3 @@
 # RepoMobile
+
+npm start
